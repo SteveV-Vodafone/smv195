@@ -1,6 +1,6 @@
 Hi, I’m Steve @smv195
 
-I’m interested in Network Slicing and monetisation, plus any other innovative Network services.
+I work for Vodafone, and I’m interested in Network APIs, Network Slicing and monetisation, plus any other innovative Network services.
 
 
 <!---
